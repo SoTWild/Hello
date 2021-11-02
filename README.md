@@ -4,7 +4,7 @@
 
 **【SOTW】**
 
-[（中文版）](./Hello,World（中文版）)
+[（中文版）](https://github.com/SoTWild/Hello/blob/main/Hello%2CWorld%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.md)
 
 ## Preface:
 
