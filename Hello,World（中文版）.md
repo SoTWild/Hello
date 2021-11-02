@@ -4,7 +4,7 @@
 
 **【SOTW】**
 
-[(English version)](./Hello,World(English version))
+[(English version)](https://github.com/SoTWild/Hello/blob/main/README.md)
 
 ## 前言：
 
