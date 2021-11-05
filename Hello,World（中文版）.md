@@ -4,7 +4,7 @@
 
 **【SOTW】**
 
-[(English version)](https://github.com/SoTWild/Hello/blob/main/README.md)
+[(English version)](https://github.com/SoTWild/Hello/README.md)
 
 ## 前言：
 
@@ -25,6 +25,7 @@
 ​		目前是初二升初三，在此前几乎没有得过较正式的有关科技发明活动的奖项~~（但也不是说没那个实力）~~，喜欢嵌入式设计、塞尔达传说。现在着重深入学习**数字电路、模拟电路、单片机（目前是ESP系列和Atmega系列）以及各种CAD软件**。
 
 ​		不过我也做过一个**整流滤波板**，它是双层PCB。11V AC输入，有5V和12V的输出，最大功率为**40W**。
+
 
 
 ​		我不怎么擅长这种正式交际，但我也很容易相处。
@@ -58,4 +59,12 @@
 ## 结语：
 
 ​		希望我能在今后学习到更多东西吧，等着我（和我的团队）。
- *如果感兴趣，大家记得关注我*
+
+
+​                                                                     *如果感兴趣，大家记得关注我*
+
+
+
+#### 这是本项目在BiliBili上的网址：
+
+[我们正式来到B站](https://www.bilibili.com/video/BV1u44y1q7vR?spm_id_from=333.999.0.0)
