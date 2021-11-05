@@ -4,7 +4,7 @@
 
 **【SOTW】**
 
-[（中文版）](https://github.com/SoTWild/Hello/blob/main/Hello%2CWorld%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.md)
+[（中文版）](./Hello,World（中文版）)
 
 ## Preface:
 
@@ -25,6 +25,8 @@
  At present, I am in the third year of junior high school. Before that, I have hardly won any formal awards related to scientific and technological invention activities ~~(but I don't mean I don't have that strength)~~. I love embedded design, The legend of Zelda.Now I focus on in-depth study of **digital circuit, analog circuit, single chip microcomputer (ESP series and Atmega series at present) and various CAD softwares**.
 
  But I also made a **rectifier filter board**, which is a double-layer PCB. 11V AC input, 5V and 12V output, Maximum Power **40W**.
+
+![整流滤波板](../images/整流滤波板.jpg)
 
 
 
@@ -60,4 +62,12 @@
 
  I hope I can learn more in the future, waiting for me (and my team).
 
+![壁纸](D:\项目汇总\正式项目\1.HelloWorld\images\壁纸.jpg)
+
  *If you are interested, please remember to subscribe to me*
+
+
+
+#### This is the website of this project on BiliBili：
+
+[我们正式来到B站](https://www.bilibili.com/video/BV1u44y1q7vR?spm_id_from=333.999.0.0)
